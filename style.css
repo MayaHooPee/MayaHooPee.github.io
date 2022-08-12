@@ -1,0 +1,63 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    color: whitesmoke;
+    font-size: 100%;
+    
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+header {
+    display: flex;
+    height: 30%;
+    justify-content: space-evenly;
+    background-color:whitesmoke;
+    align-items: right;
+    padding: 2px;
+}
+
+
+nav a{
+    font-weight: 15%;
+    padding: 1px;
+    align-items: center;
+    
+}
+
+nav a:hover{
+    color: darksalmon;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family:'Varela Round', sans-serif; 
+   
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    margin: 10px;
+    
+}
+
+
+p{
+    color: black;
+    text-align: center;
+    font-family:'Nunito', sans-serif;
+}
+
+
+principal{
+    width: 100%;
+    max-width: 1000px;
+}
